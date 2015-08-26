@@ -1,0 +1,24 @@
+.input {
+    fill: #8fb8f7;
+    stroke: black;
+    stroke-width: 3;
+}
+.model {
+    fill: #ffd454;
+    stroke: black;
+    stroke-width: 3;
+}
+.output {
+    fill: #d6d6d6;
+    stroke: black;
+    stroke-width: 3;
+}
+.group {
+    fill: #a9d198;
+    stroke: none;
+}
+
+.line {
+    stroke: black;
+    stroke-width: 3;
+}

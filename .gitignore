@@ -10,3 +10,7 @@ pom.xml.asc
 /.gorilla-port
 .hgignore
 .hg/
+.idea
+*.iml
+figwheel_server.log
+/resources/public/js/out
